@@ -1,1 +1,1 @@
-# News-Website
+Index.php is home page
